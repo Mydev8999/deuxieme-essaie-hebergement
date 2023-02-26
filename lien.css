@@ -1,0 +1,16 @@
+body{
+    background-image: url(media/font\ cool\ stils\ -\ Copie.png);
+}
+
+#tiktok{
+    width: 10%;
+    border-radius: 50%;
+    
+}
+
+.button{
+    background-color:rgb(240, 133, 12);
+    text-decoration: none;
+    border-radius: 1rem;
+    color: black;
+}

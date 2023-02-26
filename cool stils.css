@@ -1,0 +1,32 @@
+body{
+    background-image: url(media/font\ cool\ stils\ -\ Copie.png);
+}
+
+h1{
+    text-align: center;
+    
+}
+
+h3{
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+}
+
+p{
+    text-align: center;
+}
+
+.button{
+    background-color: rgb(240, 133, 12);
+    text-decoration: none;
+    color: black;
+    border-radius: 2rem;
+}
+
+#logo{
+    width: 10%;
+    border-radius: 30%;
+}
